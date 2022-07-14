@@ -1,5 +1,5 @@
-[Adblock Plus 2.0]
-! Version: 22.7.168
+[Adblock 2.0]
+! Version: 1
 ! Title: Art Manga
 ! Description: Filter list that specifically ads + block liat web.
 ! Last modified: 14 Jul 2022 17:08 GMT+7
