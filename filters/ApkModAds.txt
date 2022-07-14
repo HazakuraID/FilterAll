@@ -1,10 +1,10 @@
 [Adblock 2.0]
 
-! Version: 1
+! Version: 2
 
 ! Title: Apk Mod Ads Banner
 ! Description: Filter list that specifically ads + block liat web.
-! Last modified: 14 Jul 2022 17:20 GMT+7
+! Last modified: 14 Jul 2022 17:37 GMT+7
 ! Expires: 3 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/belajarnadya/ArtImageManga/main/filters/ApkModAds.txt
 
@@ -17,3 +17,11 @@ apkmody.io##.ad-unit
 ! 2022-07-14 https://modcombo.com
 modcombo.com##.box-space.ads12 > .txt-ads
 modcombo.com###contentMakeToc > div > .txt-ads
+! 2022-07-14 https://apkdone.com
+apkdone.com##.adplaceholder-top
+! 2022-07-14 https://techbigs.com
+techbigs.com##.txt-ads
+! 2022-07-14 https://modyolo.com
+modyolo.com##div.text-center:nth-of-type(1)
+modyolo.com##div.text-center:nth-of-type(2)
+modyolo.com##div.text-center:nth-of-type(5)
