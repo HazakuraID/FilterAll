@@ -4,7 +4,7 @@
 ! Description: Filter list that specifically ads + block list web.
 ! Last modified: 14 Jul 2022 22:19 GMT+7
 ! Expires: 3 days (update frequency)
-! Homepage: https://raw.githubusercontent.com/belajarnadya/ArtImageManga/main/filters/newsid.txt
+! Homepage: https://github.com/HazakuraID/FilterAll/main/filters/NewsID.txt
 
 ! 2022-07-14 https://m.republika.co.id
 m.republika.co.id##.topline-mobile_detail-news.ads
