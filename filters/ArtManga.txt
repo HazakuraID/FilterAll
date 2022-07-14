@@ -2,9 +2,9 @@
 ! Version: 1
 ! Title: Art Manga
 ! Description: Filter list that specifically ads + block liat web.
-! Last modified: 14 Jul 2022 17:08 GMT+7
+! Last modified: 14 Jul 2022 23:00 GMT+7
 ! Expires: 3 days (update frequency)
-! Homepage: https://github.com/belajarnadya/ArtImageManga
+! Homepage: https://github.com/HazakuraID/FilterAll/blob/main/filters/ArtManga.txt
 
 ! 14-07-2022 https://pixiv.net
 pixiv.net##.div:nth-of-type(4)
