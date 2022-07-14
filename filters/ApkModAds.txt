@@ -1,10 +1,8 @@
 [Adblock 2.0]
-
 ! Version: 2
-
 ! Title: Apk Mod Ads Banner
 ! Description: Filter list that specifically ads + block liat web.
-! Last modified: 14 Jul 2022 17:37 GMT+7
+! Last modified: 14 Jul 2022 23:02 GMT+7
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/HazakuraID/FilterAll/blob/main/filters/ApkModAds.txt
 
