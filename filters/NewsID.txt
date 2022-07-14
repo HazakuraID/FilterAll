@@ -2,10 +2,21 @@
 ! Version: 1
 ! Title: News Ads Banner ID
 ! Description: Filter list that specifically ads + block liat web.
-! Last modified: 14 Jul 2022 17:37 GMT+7
+! Last modified: 14 Jul 2022 22:19 GMT+7
 ! Expires: 3 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/belajarnadya/ArtImageManga/main/filters/newsid.txt
 
 ! 2022-07-14 https://m.republika.co.id
 m.republika.co.id##.topline-mobile_detail-news.ads
 m.republika.co.id##article > div
+! 2022-07-14 https://news.detik.com
+news.detik.com##body > div > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
+news.detik.com##body > .text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+news.detik.com##body > div > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+news.detik.com##.detail__body-text > .text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
+news.detik.com##.detail__body-text > .text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+news.detik.com##.itp_bodycontent.detail__body > .text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
+news.detik.com##.itp_bodycontent.detail__body > .text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+news.detik.com##.container > div.text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
+news.detik.com##.container > div.text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
+
