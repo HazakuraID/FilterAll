@@ -1,0 +1,16 @@
+[Adblock 2.0]
+! Version: 1
+! Title: Rating Show Ads remove
+! Description: Filter list that specifically ads + block list web.
+! Last modified: 14 Jul 2022 23:00 GMT+7
+! Expires: 5 days (update frequency)
+! Homepage: https://github.com/HazakuraID/FilterAll/blob/main/filters/RatingShow.txt
+
+! 2022-07-14 https://beta.sankakucomplex.com
+beta.sankakucomplex.com##.jss639
+beta.sankakucomplex.com##.jss616.jss638.jss615.jss614
+beta.sankakucomplex.com##.jss656.jss615.jss614
+beta.sankakucomplex.com##.jss807.jss615.jss614
+beta.sankakucomplex.com##.jss842.jss615.jss614
+beta.sankakucomplex.com##.jss615.jss638.jss614.jss613
+beta.sankakucomplex.com##.jss656.jss614.jss613
