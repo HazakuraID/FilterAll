@@ -1,7 +1,7 @@
 [Adblock 2.0]
 ! Version: 1
 ! Title: News Ads Banner ID
-! Description: Filter list that specifically ads + block liat web.
+! Description: Filter list that specifically ads + block list web.
 ! Last modified: 14 Jul 2022 22:19 GMT+7
 ! Expires: 3 days (update frequency)
 ! Homepage: https://raw.githubusercontent.com/belajarnadya/ArtImageManga/main/filters/newsid.txt
