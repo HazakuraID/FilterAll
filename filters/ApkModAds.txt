@@ -12,6 +12,8 @@
 modyolo.com##div.text-center:nth-of-type(5)
 modyolo.com##div.text-center:nth-of-type(1)
 modyolo.com##div.text-center:nth-of-type(2)
-
 ! 2022-07-14 https://apkmody.io
 apkmody.io##.ad-unit
+! 2022-07-14 https://modcombo.com
+modcombo.com##.box-space.ads12 > .txt-ads
+modcombo.com###contentMakeToc > div > .txt-ads
