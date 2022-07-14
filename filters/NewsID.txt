@@ -1,0 +1,11 @@
+[Adblock 2.0]
+! Version: 1
+! Title: News Ads Banner ID
+! Description: Filter list that specifically ads + block liat web.
+! Last modified: 14 Jul 2022 17:37 GMT+7
+! Expires: 3 days (update frequency)
+! Homepage: https://raw.githubusercontent.com/belajarnadya/ArtImageManga/main/filters/newsid.txt
+
+! 2022-07-14 https://m.republika.co.id
+m.republika.co.id##.topline-mobile_detail-news.ads
+m.republika.co.id##article > div
