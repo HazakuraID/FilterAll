@@ -2,9 +2,9 @@
 ! Version: 1
 ! Title: News Android Automatically Ads
 ! Description: Filter list that specifically ads + block list web.
-! Last modified: 14 Jul 2022 17:37 GMT+7
+! Last modified: 14 Jul 2022 23:00 GMT+7
 ! Expires: 5 days (update frequency)
-! Homepage: https://raw.githubusercontent.com/belajarnadya/ArtImageManga/main/filters/NewsAndroid.txt
+! Homepage: https://github.com/HazakuraID/FilterAll/blob/main/filters/NewsAndroid.txt
 
 ! 2022-07-14 https://www.androidpolice.com
 www.androidpolice.com##.ad-zone-size-container-content-below-main-pic.ad-zone-size-container
