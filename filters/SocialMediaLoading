@@ -1,0 +1,60 @@
+[Adblock 2.0]
+! Version: 1
+! Title: Social Media Loading
+! Description: Filter list that specifically ads + block list web.
+! Last modified: 15 Jul 2022 09:05 GMT+7
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/HazakuraID/FilterAll/blob/main/filters/SocialMediaLoading.txt
+
+! List used by Brave for preventing social elements from loading
+!
+! Facebook
+||graph.facebook.com^$third-party,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+||connect.facebook.net^$third-party,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+||connect.facebook.com^$third-party,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+! Facebook Plugins (3rd-party embedded plugins)
+||facebook.com/plugins/$third-party,domain=~atlassolutions.com|~facebook.com|~facebook.de|~facebook.fr|~facebook.net|~fb.com|~fb.me|~fbcdn.net|~fbsbx.com|~friendfeed.com|~instagram.com|~internalfb.com|~messenger.com|~oculus.com|~whatsapp.com|~workplace.com
+! Twitter
+||api.twitter.com^$third-party,domain=~tweetdeck.com|~twitter.com|~twitter.jp
+||platform.twitter.com^$third-party,domain=~tweetdeck.com|~twitter.com|~twitter.jp
+! Outbrain elements
+###around-the-web
+###g-outbrain
+###js-outbrain-module
+###js-outbrain-relateds
+###js-outbrain-under-article
+###outbrain
+###outbrain1
+###outbrainWidget
+###outbrain_widget_0
+##.ArticleFooter-outbrain
+##.ArticleOutbrainLocal
+##.Atom-outbrain
+##.OUTBRAIN
+##.box-outbrain
+##.c2_outbrain
+##.component-outbrain
+##.nok-outbrain-list
+##.ob-smartfeed-wrapper
+##.outbrain
+##.outbrain-ads
+##.outbrain-bloc
+##.outbrain-content
+##.outbrain-group
+##.outbrain-module
+##.outbrain-placeholder
+##.outbrain-recommended
+##.outbrain-relateds
+##.outbrain-widget
+##.outbrain-wrapper
+##.outbrainWidget
+##.outbrain__main
+##.outbrain_container
+##.outbrain_skybox
+##.outbrainbox
+##.pane-bonnier-outbrain-outbrain-video-vr3-widget
+##.pmc-outbrain-amp-widget
+##.sics-component__outbrain
+##.tr-outbrain-container
+##.widget_ione-outbrain
+##.yom-outbrain
