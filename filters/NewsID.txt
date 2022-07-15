@@ -1,15 +1,15 @@
 [Adblock 2.0]
-! Version: 1
+! Version: 2
 ! Title: News Ads Banner ID
 ! Description: Filter list that specifically ads + block list web.
 ! Last modified: 14 Jul 2022 23:06 GMT+7
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/HazakuraID/FilterAll/main/filters/NewsID.txt
 
-! 2022-07-14 https://m.republika.co.id
+! https://m.republika.co.id
 m.republika.co.id##.topline-mobile_detail-news.ads
 m.republika.co.id##article > div
-! 2022-07-14 https://news.detik.com
+! https://news.detik.com
 news.detik.com##body > div > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
 news.detik.com##body > .text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 news.detik.com##body > div > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
@@ -19,7 +19,7 @@ news.detik.com##.itp_bodycontent.detail__body > .text-center.box-ads > .i-amphtm
 news.detik.com##.itp_bodycontent.detail__body > .text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 news.detik.com##.container > div.text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
 news.detik.com##.container > div.text-center.box-ads > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
-! 2022-07-14 https://www.cnnindonesia.com
+! https://www.cnnindonesia.com
 www.cnnindonesia.com##body > .ads-middle > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
 www.cnnindonesia.com##body > .ads-middle > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element
 www.cnnindonesia.com##.container.detail > div.ads-middle > .i-amphtml-unresolved.amp-unresolved.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element > div
@@ -34,6 +34,28 @@ www.cnnindonesia.com##.ads-slot-mb-container
 www.cnnindonesia.com###billboard
 www.cnnindonesia.com##.ads-slot--sb-150.ads-slot--sb.ads-slot
 www.cnnindonesia.com##.ads-slot--sb-250.ads-slot--sb.ads-slot
-! 2022-07-14 https://www.sonora.id
+! https://www.sonora.id
 www.sonora.id###div-bottom-frame-transparent
 www.sonora.id##.osmplaceonsite.ads-partner-wrap
+! https://internasional.kontan.co.id
+internasional.kontan.co.id##p:nth-of-type(47)
+internasional.kontan.co.id##.content-pos > .high-10
+internasional.kontan.co.id###dablewidget_YljYzm7O
+internasional.kontan.co.id##.osmplaceonsite.ads-partner-wrap
+internasional.kontan.co.id##.mar-v-20.pemisah
+internasional.kontan.co.id##.bawah1.mar-h-8 > .high-10
+internasional.kontan.co.id##.bawah1.mar-h-8 > .box-center
+internasional.kontan.co.id##.lainnya.other_news.stream-loadmore
+! https://sragenupdate.pikiran-rakyat.com
+sragenupdate.pikiran-rakyat.com##.ads__horizontal
+! https://sajiansedap.grid.id
+sajiansedap.grid.id##.clearfix.ads__horizontal
+! https://www.suara.com
+www.suara.com##.parallax_swipe
+www.suara.com###dable-mobile-bacajuga
+www.suara.com###dable-mobile-berita-terkait
+www.suara.com###iklan_anchor
+riau.suara.com##.parallax_swipe
+riau.suara.com###dable-mobile-bacajuga
+riau.suara.com###dable-mobile-berita-terkait
+riau.suara.com###iklan_anchor
