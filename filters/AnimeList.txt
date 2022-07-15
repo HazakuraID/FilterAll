@@ -1,0 +1,29 @@
+[Adblock 2.0]
+! Version: 1
+! Title: Anime List Wildcard
+! Description: Filter list that specifically ads + block list web.
+! Last modified: 15 Jul 2022 09:15 GMT+7
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/HazakuraID/FilterAll/blob/main/filters/AnimeList.txt
+
+! uBO-domain wildcard workaround kissanime
+kimcartoon.li,kisscartoon.sh,kisscartoon.nz,kisscartoon.ac,kisscartoon.es,kissanime.com.ru,kiss-anime.su,kissanime.sx,kissanime.org.ru,kissanime.co,kissanime.mx##+js(acis, String.fromCharCode, /btoa|break/)
+kimcartoon.li,kisscartoon.sh,kisscartoon.nz,kisscartoon.ac,kisscartoon.es,kissanime.com.ru,kiss-anime.su,kissanime.sx,kissanime.org.ru,kissanime.co,kissanime.mx##+js(acis, JSON.parse, break;case $.)
+kimcartoon.li,kisscartoon.sh,kisscartoon.nz,kisscartoon.ac,kisscartoon.es,kissanime.com.ru,kiss-anime.su,kissanime.sx,kissanime.org.ru,kissanime.co,kissanime.mx##+js(window.open-defuser)
+! uBO-domain wildcard workaround kissasian
+kissasian.fan,kissasian.pe,kissasian.com.ru,kissasian.li,kissasian.es##+js(acis, String.fromCharCode, /btoa|break/)
+kissasian.fan,kissasian.pe,kissasian.com.ru,kissasian.li,kissasian.es##+js(acis, JSON.parse, break;case $.)
+kissasian.fan,kissasian.pe,kissasian.com.ru,kissasian.li,kissasian.es##+js(window.open-defuser)
+kissasian.fan,kissasian.pe,kissasian.com.ru,kissasian.li,kissasian.es##+js(aeld, /^(?:click|mousedown)$/, _0x)
+kissasian.fan,kissasian.pe,kissasian.com.ru,kissasian.li,kissasian.es##+js(nostif, (), 45000)
+kissasian.fan,kissasian.pe,kissasian.com.ru,kissasian.li,kissasian.es##+js(set, check_adblock, true)
+@@||kissasian.pe^$ghide
+@@||kissasian.li^$ghide
+@@||kissasian.fan^$ghide
+@@||kissasian.com.ru^$ghide
+@@||kissasian.es^$ghide
+! uBO-domain wildcard workaround animepahe.com/mmkvcage.site/pahe.li
+animepahe.com,mmkvcage.site,pahe.li##+js(aopw, _pop)
+animepahe.com,kwik.cx##+js(acis, String.fromCharCode, 'shift')
+animepahe.com,kwik.cx##+js(aopr, open)
+animepahe.com,kwik.cx##+js(aopr, PopAds)
