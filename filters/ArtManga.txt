@@ -9,7 +9,7 @@
 ! 14-07-2022 https://pixiv.net
 pixiv.net##.div:nth-of-type(4)
 pixiv.net##.div:nth-of-type(5)
-! 2022-07-19
+! 2022-07-19 https://pixiv.net
 www.pixiv.net##.t_comment_section.ad-frame
 www.pixiv.net##.t_comment_section.ad-frame-container
 www.pixiv.net##.t_relatedworks.ad-frame
