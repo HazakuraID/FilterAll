@@ -2,14 +2,16 @@
 ! Version: 2
 ! Title: HZK Art Manga
 ! Description: Filter list that specifically ads + block liat web.
-! Last modified: 14 Jul 2022 23:00 GMT+7
+! Last modified: 20 Jul 2022 07:35 GMT+7
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/HazakuraID/FilterAll/blob/main/filters/ArtManga.txt
 
 ! 14-07-2022 https://pixiv.net
 pixiv.net##.div:nth-of-type(4)
+##.div:nth-of-type(4)
 pixiv.net##.div:nth-of-type(5)
-! 2022-07-19 https://pixiv.net
+##.div:nth-of-type(5)
+! 20-07-2022 https://pixiv.net
 www.pixiv.net##.t_comment_section.ad-frame
 www.pixiv.net##.t_comment_section.ad-frame-container
 www.pixiv.net##.t_relatedworks.ad-frame
