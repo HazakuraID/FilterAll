@@ -1,6 +1,6 @@
 [Adblock 2.0]
-! Version: 1
-! Title: Art Manga
+! Version: 2
+! Title: HZK Art Manga
 ! Description: Filter list that specifically ads + block liat web.
 ! Last modified: 14 Jul 2022 23:00 GMT+7
 ! Expires: 3 days (update frequency)
